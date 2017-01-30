@@ -1,0 +1,100 @@
+.leftside{
+	min-height: 300px;
+	border-radius: 10px;
+}
+.rightside{
+	min-height: 300px;
+}
+h1{
+	text-align: center;
+}
+.leftside h3{
+	text-align: center;
+	color: blue;
+	margin-top: 10px;
+}
+img{
+	margin: 0px;
+}
+.we{
+   min-height: 300px;
+	background-color: #27bff2;
+	margin-bottom: 40px;
+	border-radius: 10px;	
+}
+.we h1{
+	text-align: center;
+	color: white;
+}
+p{
+	text-align: center;
+}
+.earth{
+    min-height: 300px;
+    border-right: 1px solid white;
+}
+.personal{
+    min-height: 300px;
+    border-right: 1px solid white;
+}
+.smart{
+    min-height: 300px;
+}
+.earth img{
+	margin-left: 50px;
+	margin-top: 15px;
+	border-radius: 10px;
+}
+.personal img{
+	margin-left: 50px;
+	margin-top: 15px;
+	border-radius: 10px;
+}
+.smart img{
+	margin-left: 50px;
+	margin-top: 15px;
+	border-radius: 10px;
+}
+.earth h3{
+    text-align: center;
+}
+.personal h3{
+	text-align: center;
+}
+.smart h3{
+	text-align: center;
+}
+.earth p{
+	color: white;
+}
+.personal p{
+	color: white;
+}
+.smart p{
+   color: white;
+}
+.motto{
+	min-height: 200px;
+    margin-bottom: 40px;
+}
+.motto h1{
+	text-align: center;
+	font-family: vardana, san-serif;
+}
+.testi{
+	min-height: 300px;
+	background-color: #27bff2;
+	border-radius: 10px;
+}
+.test-left{
+        min-height: 300px;
+        border-right: 1px solid white;
+
+}
+.test-left h3{
+	text-align: center;
+        margin-top: 20px;
+}
+.test-right h3{
+	text-align: center;
+}
